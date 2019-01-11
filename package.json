@@ -1,6 +1,7 @@
 {
   "name": "redux-form-semantic-ui",
   "version": "0.1.0",
+  "homepage": "https://yamaryu0508.github.io/redux-form-semantic-ui/",
   "private": true,
   "dependencies": {
     "react": "^16.7.0",
